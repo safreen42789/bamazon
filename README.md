@@ -1,6 +1,6 @@
 # bamazon
 
-_Welcome to the *bamazon* storefront!_  This app allows users to see a table the displays: 
+_Welcome to the **bamazon** storefront!_  This app allows users to see a table the displays: 
 * the items in our inventory 
 * the item names * the item department 
 * item price 
