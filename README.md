@@ -1,5 +1,5 @@
-## bamazon
-Welcome to Bamazon, an app that takes after Amazon!  This app allows users to see a table the displays all the items in our inventory along with their names, department names, price and stock quantities.  User is prompted to select an item_id that they wish to purchase and the quantity of that item that they would like to purchase.  Once the app checks its inventory to make sure we sell the item and the quantities requested are availabe, customer can make a purchase.  After the purchase goes through, customer is provided with the total cost for their purchase along with an updated table of the new quantities in stock.  
+# bamazon
 
-Please refer to the following video that demonstrates the app in motion!
-"./bamazon_customer.mov"
+_Welcome to the *bamazon* storefront!_  This app allows users to see a table the displays: *the items in our inventory *the item names * the item department * item price * item stock quantities  User is then prompted to select an item_id and a quantity that they wish to purchase.  Once the app checks its inventory to make sure the store sells the item and the quantities requested are availabe, customer can make a purchase.  After the purchase goes through, customer is provided with the total cost for their purchase along with an updated table of the new quantities in stock should they choose to purchase something else.  
+
+Refer to the [video]("./bamazon_customer.mov") to see a live demonstration of the app in motion!
